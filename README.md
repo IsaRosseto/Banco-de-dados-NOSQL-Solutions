@@ -28,4 +28,4 @@ garantir que o usuário tenha seguido todas as regras determinadas, qual seria o
 de sistema de banco de dados entre documento, chave-valor, grafos e colunas para essa
 situação?
 
- <a href="">Veja aqui a solução</a>
+ <a href="https://github.com/IsaRosseto/Banco-de-dados-NOSQL-Solutions/blob/main/Voc%C3%AA%20n%C3%A3o%20gosta%20de%20relacionamentos_.pdf">Veja aqui a solução</a>
